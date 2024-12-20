@@ -1,0 +1,15 @@
+.Home_console{
+    display: block;
+    padding-top: 30px;
+    font-family: "Monstserrat" ,sans-serif;
+}
+*{
+    font-family: "Monstserrat" ,sans-serif;
+    color:azure;
+    background-color:#c28549;
+    
+}
+@font-face {
+    font-family: "Monstserrat";
+    src: url("./assets/Montserrat-VariableFont_wght.ttf");
+  }
